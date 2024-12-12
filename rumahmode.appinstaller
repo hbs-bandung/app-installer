@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
   <AppInstaller xmlns="http://schemas.microsoft.com/appx/appinstaller/2018"
-    Uri="msix_installer\rumahmode.appinstaller" Version="1.32.6.0">
+    Uri="https://hbs-bandung.github.io/app-installer/rumahmode.appinstaller" Version="1.32.6.0">
     <MainPackage Name="com.rumod.rmdt.rumahmode" Version="1.32.6.0"
       Publisher="CN=Ridwan Fauzan, OU=RPA, O=Rumah Mode, L=Bandung, S=West Java, C=ID"
-      Uri="msix_installer\versions\rumahmode_1.32.6.0.msix"
+      Uri="https://hbs-bandung.github.io/app-installer/versions/rumahmode_1.32.6.0.msix"
       ProcessorArchitecture="x64" />
     <UpdateSettings>
       <OnLaunch HoursBetweenUpdateChecks="0" 
